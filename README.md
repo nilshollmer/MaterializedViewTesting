@@ -4,9 +4,9 @@ Materialized Views in SQL Server Testing program
 This is a test program for the my thesis report at Software Engineering with emphasis in Web Programming at Blekinge Tekniska Högskola.
 
 ## Requirements
-Python >= 3.5
-Pyodbc >= 4.*
-SQL Server 15.*
+Python >= 3.5  
+Pyodbc >= 4.*  
+SQL Server 15.*  
 SQL Server Management Studio
 
 ## Installation
