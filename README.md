@@ -14,7 +14,7 @@ In order to run the tests, a small setup is necessary.
 + Use SSMS to create the testing and performance database using scripts available in `sql/database_setup/`
 + Change server name in `query_functions.py`
 
-## Commmands
+## Commands
 
 *INDEX LEVEL*
 Create views and change index levels.  
