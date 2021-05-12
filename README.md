@@ -1,7 +1,7 @@
 Materialized Views in SQL Server Testing program
 ============================================
 
-This is a test program for the my thesis report at Software Engineering with emphasis in Web Programming at Blekinge Tekniska Högskola.
+This is a test program for the my research paper (exjobb) at Software Engineering with emphasis in Web Programming at Blekinge Tekniska Högskola.
 
 ## Requirements
 Python >= 3.5  
@@ -31,12 +31,18 @@ This query does not change index level, this needs to be done manually us
 Test select queries, print result and create .csv file  
 `python3 run_select_query.py <query> <iterations>`
 
+The available queries are named to relate to chapters in the research paper. 
 Available queries:
-+ 331_1, 331_2
-+ 332_1, 332_2
-+ 333_1, 333_2
-+ 334_1, 334_2
-+ 335_1, 335_2
++ 331_1
++ 331_2
++ 332_1
++ 332_2
++ 333_1
++ 333_2
++ 334_1
++ 334_2
++ 335_1
++ 335_2
 + 336
 + 337
 
